@@ -22,6 +22,9 @@
 - mysql 集群高可用方案
 - mysql 分库分表
 
+#### 免费课程
+- [CMU15-445](https://15445.courses.cs.cmu.edu/fall2020/faq.html)
+
 ### mongodb
 
 ### redis
@@ -67,6 +70,9 @@
 ## 内功
 
 ### 数据结构
+#### 免费课程
+- [清华大学数据结构](https://www.xuetangx.com/course/THU08091000384/12424669?channel=i.area.manual_search).这个老师准备了很多例子，有excel文件可以让你一步步看到算法的实现过程。有完整的评分机制。
+- [伯克利大学CS61B](https://sp18.datastructur.es/)。同样有这完整的评分机制。有14个lab，10个homework，3个project。
 
 #### 字符串
 
@@ -103,7 +109,7 @@
 
 ### tcp/ip网络
 
-#### 免费课程：1[哈工大的计算机网络](https://www.icourse163.org/course/HIT-154005)
+#### 免费课程：[哈工大的计算机网络](https://www.icourse163.org/course/HIT-154005)
 #### 书籍推荐：计算机网络自顶向下
 
 ### 计算机组成原理
